@@ -1,7 +1,7 @@
 policy
 policies
 params
+.idea
 *.csv
 *.npy
 *.pyc
-.idea
