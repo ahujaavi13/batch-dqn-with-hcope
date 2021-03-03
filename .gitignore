@@ -4,3 +4,4 @@ params
 *.csv
 *.npy
 *.pyc
+.idea
