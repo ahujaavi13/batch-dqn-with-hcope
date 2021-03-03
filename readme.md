@@ -9,8 +9,8 @@ and [AI Safety research at UMass](https://aisafety.cs.umass.edu/index.html).
 ```
 |-----batch-dqn  
 	|----agent                                     #Codes for running Model			                      
-		|----agent.py                          #Agents implementation
-		|----dqn.py                            #DQN
+	    |----agent.py                          #Agents implementation
+	    |----dqn.py                            #DQN
 	|----data  
 	    |----sample_data.zip                       #Sample Data
 	    |----data_dqn.csv                          #Fed to DQN
